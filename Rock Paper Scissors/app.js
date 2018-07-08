@@ -2,7 +2,6 @@ let userScore = 0;
 let compScore = 0;
 const userScoreSpan = document.getElementById('user-score');
 const compScoreSpan = document.getElementById('comp-score');
-const scoreBoardDiv = document.querySelector('.score-board');
 const resultP = document.querySelector('.result > p');
 const rockDiv = document.getElementById('Rock');
 const paperDiv = document.getElementById('Paper');
