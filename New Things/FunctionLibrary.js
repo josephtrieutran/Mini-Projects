@@ -1,6 +1,6 @@
-## Functions
+// Functions
 
-##### Deep Copy Object or Array
+// Deep Copy Object or Array
 
 function deepCopy(obj) {
   const keys = Object.keys(obj)
